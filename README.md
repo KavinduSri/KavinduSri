@@ -41,7 +41,7 @@
 <br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KavinduSri" alt="kavindusri" /></a> </p>
+  <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=KavinduSri"><img src="https://github-profile-trophy.vercel.app/?username=KavinduSri" alt="KavinduSri" /></a> </p>
   <br>
 
 <div align="right">
