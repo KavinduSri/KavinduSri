@@ -41,7 +41,7 @@
 <br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavindusri" alt="kavindusri" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KavinduSri" alt="kavindusri" /></a> </p>
   <br>
 
 <div align="right">
@@ -55,9 +55,9 @@
 
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindusri&show_icons=true&theme=dark&title_color=0fc3ff&text_color=00ff1e&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="kavindusri" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KavinduSri&show_icons=true&theme=dark&title_color=0fc3ff&text_color=00ff1e&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="kavindusri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavindusri&show_icons=true&theme=dark&title_color=24deff&text_color=ff0000&hide_border=true&locale=en" alt="kavindusri" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KavinduSri&show_icons=true&theme=dark&title_color=24deff&text_color=ff0000&hide_border=true&locale=en" alt="kavindusri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindusri&theme=dark" alt="kavindusri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KavinduSri&theme=dark" alt="kavindusri" /></p>
 
