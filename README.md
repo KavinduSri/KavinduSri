@@ -26,7 +26,7 @@
   
   # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/KavinduSri)
-- [![GitHub followers](https://img.shields.io/github/followers/KavinduSri.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/KavinduSri?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/KavinduSri?label=Followers)](https://github.com/KavinduSri?tab=followers)
   
 
 
