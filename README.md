@@ -43,6 +43,11 @@
 
   <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=KavinduSri"><img src="https://github-profile-trophy.vercel.app/?username=KavinduSri" alt="KavinduSri" /></a> </p>
   <br>
+  <p align="left"> 
+  <img src='https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png' style="width:100px; height:100px;">
+  </p>
+  <br>
+ 
 
 <div align="right">
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif"/>
