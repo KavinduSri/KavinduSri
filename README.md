@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on **[SocietyX](https://www.youtube.com/c/societyx)**
+- 🔭 I’m currently working on HackzLk
 - 🌱 I’m currently learning About All
 - ⚡️ I'm Still Student
 - 🤔 I’m looking for New programming inventions;
