@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on HackzLk
-- 🌱 I’m currently learning About All
+- 🌱 I’m currently studying Machine Learning
 - ⚡️ I'm Still Student
 - 🤔 I’m looking for New programming inventions;
 - 📫 How to reach me: [Kavindu's Gmail](kavindusri2005@gmail.com)
