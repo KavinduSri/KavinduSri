@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Sriverse
+- 🔭 CEO and Co-Founder at SriXplore
 - 🌱 I’m currently studying Machine Learning
 - ⚡️ I'm Still Student
 - 🤔 I’m looking for New programming inventions;
